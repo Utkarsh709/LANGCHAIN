@@ -72,14 +72,6 @@ Each file or notebook demonstrates a **specific LangChain concept**, implemented
 
 ---
 
-## 🔐 Environment Setup (Important)
-Create a `.env` file (never commit it):
-
-```env
-OPENAI_API_KEY=your_key_here
-GROQ_API_KEY=your_key_here
-
----
 
 ## 🙏 Special Thanks
 
