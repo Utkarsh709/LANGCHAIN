@@ -78,3 +78,13 @@ Create a `.env` file (never commit it):
 ```env
 OPENAI_API_KEY=your_key_here
 GROQ_API_KEY=your_key_here
+
+---
+
+## 🙏 Special Thanks
+
+Once again, heartfelt thanks to **CampusX** for their high-quality, concept-first teaching approach.  
+The structured explanations and real-world focus played a key role in shaping my understanding of **LangChain, LLMs, and GenAI workflows**.
+
+This repository is a direct outcome of learning inspired by **CampusX** 🚀
+
